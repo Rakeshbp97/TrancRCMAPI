@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AccountDataIngestionService
+build_property.ProjectDir = D:\TransoformARTests\TransRCMAPI\AccountDataIngestionService\
