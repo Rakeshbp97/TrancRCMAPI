@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gC8FpB+sQELp9BJsH5F7ZqkJ5t5GjNiBDu9NC6ic0BOzSGmvuzCpr7ZGM4mGJsltwAwzovvJp12ug7xLWX2zWQ==",
+  "success": true,
+  "projectFilePath": "D:\\TransoformARTests\\TransRCMAPI\\AccountProcessService\\AccountProcessService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RakeshB\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\RakeshB\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

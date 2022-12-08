@@ -1,0 +1,78 @@
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.exe
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.deps.json
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.json
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.dev.json
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfoInputs.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfo.cs
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CoreCompileInputs.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.Manifest.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.xml
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AccountProcessService.styles.css
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.RazorTargetAssemblyInfo.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.genruntimeconfig.cache
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\TransRCM\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.AssemblyReference.cache
+D:\Projects\TransRCM\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CopyComplete
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.exe
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.deps.json
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.json
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.dev.json
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.AssemblyReference.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfoInputs.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfo.cs
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CoreCompileInputs.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.MvcApplicationPartsAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.Manifest.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.xml
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AccountProcessService.styles.css
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.RazorTargetAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CopyComplete
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.genruntimeconfig.cache
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewTransRCM\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.exe
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.deps.json
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.json
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.runtimeconfig.dev.json
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.AssemblyReference.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfoInputs.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.AssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CoreCompileInputs.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.MvcApplicationPartsAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.Manifest.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\staticwebassets\AccountProcessService.StaticWebAssets.xml
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\scopedcss\bundle\AccountProcessService.styles.css
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.RazorTargetAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.csproj.CopyComplete
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.dll
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.pdb
+D:\Transform AR\TransRCMAPI\AccountProcessService\obj\Debug\netcoreapp3.1\AccountProcessService.genruntimeconfig.cache
