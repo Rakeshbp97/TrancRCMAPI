@@ -11,9 +11,9 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: waterlabsadmin/accountprocessservice 
+  IMAGE_NAME: rakeshbp97/accountprocessservice 
   # IMAGE_NAME: ${{ github.repository }} # returns HoussemDellai/github-actions-course : problem with uppercase
-  IMAGE_TAG: 1.0.${{ github.run_number }} # GITHUB_RUN_NUMBER }}
+  IMAGE_TAG: v1.0.0 # GITHUB_RUN_NUMBER }}
 
 
 jobs:
