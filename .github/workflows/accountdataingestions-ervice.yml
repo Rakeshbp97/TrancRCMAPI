@@ -2,7 +2,7 @@ name: Publish AccountDataIngestionService Docker Image
 
 on:
   push:
-    branches:  [ main ]
+    branches:  [ main1 ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
