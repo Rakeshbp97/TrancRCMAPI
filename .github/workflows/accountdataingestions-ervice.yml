@@ -71,4 +71,4 @@ jobs:
           owner: Rakeshbp97
           repo: TrancRCMAPI
           package-name: pkgs/container/accountdataingestionservice
-          keep-latest-package-versions: 15
+          keep-latest-package-versions: 16
