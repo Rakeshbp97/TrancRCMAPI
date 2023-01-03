@@ -62,3 +62,8 @@ jobs:
           tags: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ env.IMAGE_TAG }} # ${{ steps.meta.outputs.tags }}
           # tags: ghcr.io/houssemdellai/github-actions-course:${{ env.IMAGE_TAG }} # ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+          
+      - uses: actions/delete-package-versions@v3
+        with:
+          package-name: ${{ env.IMAGE_NAME }}
+          num-old-versions-to-delete: 1
