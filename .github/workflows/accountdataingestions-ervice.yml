@@ -66,9 +66,6 @@ jobs:
       # Delete old version of Docker image
       - name: Delete old version of Docker image
         id: delete-old-version
-        uses: ./
+        uses: bots-house/ghcr-delete-image-action@v1.0.0
         with:
-#           owner: 'github'
-#           repo: 'packages'
-          package-name: 'accountdataingestionservice'
-          num-old-versions-to-delete: 1
+          tag: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:1.0.1
