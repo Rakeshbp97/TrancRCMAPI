@@ -63,7 +63,10 @@ jobs:
           # tags: ghcr.io/houssemdellai/github-actions-course:${{ env.IMAGE_TAG }} # ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           
-      - uses: actions/delete-package-versions@v3
+      # Delete old version of Docker image
+      - name: Delete old version of Docker image
+        id: delete-old-version
+        uses: actions/delete-package-versions@v3
         with:
-          package-name: ${{ env.IMAGE_NAME }}
+          package-name: 'accountdataingestionservice'
           num-old-versions-to-delete: 1
