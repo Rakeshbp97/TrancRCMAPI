@@ -68,7 +68,7 @@ jobs:
         id: delete-old-version
         uses: actions/delete-package-versions@v3
         with:
-          owner: 'github'
-          repo: 'packages'
-          package-name: 'accountdataingestionservice'
+#           owner: 'github'
+#           repo: 'packages'
+          package-name: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
           num-old-versions-to-delete: 1
