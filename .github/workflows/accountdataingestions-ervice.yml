@@ -68,5 +68,6 @@ jobs:
         id: delete-old-version
         uses: actions/delete-package-versions@v3
         with:
+          repo: 'packages'
           package-name: 'accountdataingestionservice'
           num-old-versions-to-delete: 1
