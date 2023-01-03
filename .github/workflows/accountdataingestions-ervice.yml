@@ -66,7 +66,7 @@ jobs:
       # Delete old version of Docker image
       - name: Delete old version of Docker image
         id: delete-old-version
-        uses: Rakeshbp97/ghcr-delete-image-action@v1.0.0
+        uses: bots-house/ghcr-delete-image-action@v1.0.0
         with:
           # NOTE: at now only orgs is supported
           owner: Rakeshbp97
