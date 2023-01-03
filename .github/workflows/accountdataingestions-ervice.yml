@@ -66,7 +66,9 @@ jobs:
       # Delete old version of Docker image
       - name: Delete old version of Docker image
         id: delete-old-version
-        uses: actions/delete-package-versions@v3
+        uses: windyakin/delete-package-versions-keep-latest@v1
         with:
+          owner: Rakeshbp97
+          repo: TrancRCMAPI
           package-name: accountdataingestionservice
-          num-old-versions-to-delete: 1
+          keep-latest-package-versions: 14
