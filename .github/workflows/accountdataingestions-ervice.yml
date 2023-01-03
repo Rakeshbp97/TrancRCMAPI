@@ -68,7 +68,7 @@ jobs:
 #         id: delete-old-version
       - uses: bots-house/ghcr-delete-image-action@v1.0.0
         with:
-          owner: bots-house
+          owner: rakeshbp97
           name: accountdataingestionservice
           token: ${{ secrets.TRANSFORMRCMIMAGE }}
           tag: 1.0.1
