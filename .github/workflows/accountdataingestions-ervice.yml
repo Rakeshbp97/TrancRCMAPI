@@ -69,6 +69,6 @@ jobs:
       - uses: ./
         with:
           owner: bots-house
-          name: ghcr-delete-image-dummy
+          name: accountdataingestionservice
           token: ${{ secrets.TRANSFORMRCMIMAGE }}
-          tag: ${{ github.run_number }}
+          tag: 1.0.${{ github.run_number }}
