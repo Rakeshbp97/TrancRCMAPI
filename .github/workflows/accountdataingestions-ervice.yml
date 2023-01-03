@@ -71,4 +71,6 @@ jobs:
           # NOTE: at now only orgs is supported
           owner: bots-house
           name: some-web-service
+          # NOTE: using Personal Access Token
+          token: ${{ secrets.TRANSFORMRCMIMAGE }}
           tag: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:1.0.1
