@@ -16,8 +16,8 @@ env:
   # IMAGE_NAME: ${{ github.repository }} # returns Waterlabsadmin/github-actions-course : problem with uppercase
 #   IMAGE_TAG: 1.0.${{ github.run_number +26 }} # GITHUB_RUN_NUMBER }}
   NUM: ${{ github.run_number }}
-  run: |
-          echo "IMAGE_TAG= 1.0.$(($NUM+18))" >> $GITHUB_ENV
+run: |
+echo "IMAGE_TAG= 1.0.$(($NUM+18))" >> $GITHUB_ENV
 
 jobs:
   build-push-docker:
