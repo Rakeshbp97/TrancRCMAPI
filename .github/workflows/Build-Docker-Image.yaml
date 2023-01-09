@@ -17,7 +17,7 @@ env:
 #   IMAGE_TAG: 1.0.${{ github.run_number +26 }} # GITHUB_RUN_NUMBER }}
   NUM: ${{ github.run_number }}
   run: |
-          echo "IMAGE_TAG=$(($NUM+18))" >> $GITHUB_ENV
+          echo "IMAGE_TAG= 1.0.$(($NUM+18))" >> $GITHUB_ENV
           - run: echo $IMAGE_TAG
 
 jobs:
