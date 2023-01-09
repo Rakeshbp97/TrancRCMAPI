@@ -8,10 +8,6 @@ on:
   workflow_dispatch:
 
 env:
-NUM: ${{ github.run_number }}
-run: |
-echo ::set-env name=IMAGE_TAG::$(($NUM+200))
-- run: echo $IMAGE_TAG
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
@@ -19,7 +15,10 @@ echo ::set-env name=IMAGE_TAG::$(($NUM+200))
   IMAGE_NAME_AccountProcessService: rakeshbp97/accountprocessservice
   # IMAGE_NAME: ${{ github.repository }} # returns Waterlabsadmin/github-actions-course : problem with uppercase
 #   IMAGE_TAG: 1.0.${{ github.run_number +26 }} # GITHUB_RUN_NUMBER }}
-
+  NUM: ${{ github.run_number }}
+  run: |
+          echo ::set-env name=IMAGE_TAG::$(($NUM+200))
+          - run: echo $IMAGE_TAG
 
 jobs:
   build-push-docker:
@@ -30,6 +29,12 @@ jobs:
       packages: write
 
     steps:
+#        - name: run number with offset
+#          NUM: ${{ github.run_number }}
+#          run: |
+#           echo ::set-env name=IMAGE_TAG::$(($NUM+200))
+#           - run: echo $IMAGE_TAG
+
       - name: Checkout repository
         uses: actions/checkout@v3
 
