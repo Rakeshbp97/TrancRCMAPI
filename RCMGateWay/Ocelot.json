@@ -1,0 +1,65 @@
+{
+  "Routes": [
+
+    {
+      "UpstreamPathTemplate": "/gateway/weather",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/weather",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "tar-api-app-service.default.svc.cluster.local",
+          "Port": 8002
+        }
+      ],
+      "SwaggerKey": "accountservice"
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/IAM/Klogin1",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/IAM/Klogin",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "tar-api-app-service.default.svc.cluster.local",
+          "Port": 8003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/IAM/Klogin",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/IAM/Klogin",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 35777
+        }
+      ]
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "accountservice",
+      "TransformByOcelotConfig": false,
+      "Config": [
+        {
+          "Name": "AccountService API",
+          "Version": "v1",
+          "Url": "http://localhost:4885/swagger/v1/swagger.json"
+        }
+      ]
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Namespace": "default",
+      "Type": "KubernetesServiceDiscoveryProvider"
+    }
+  }
+
+
+}
+

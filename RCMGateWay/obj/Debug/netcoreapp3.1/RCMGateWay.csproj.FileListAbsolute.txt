@@ -1,0 +1,146 @@
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.exe
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.deps.json
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.json
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.dev.json
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfoInputs.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfo.cs
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CoreCompileInputs.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.Manifest.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.xml
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\scopedcss\bundle\RCMGateWay.styles.css
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.RazorTargetAssemblyInfo.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.genruntimeconfig.cache
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Kros.Utils.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\MMLib.SwaggerForOcelot.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.AssemblyReference.cache
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\TransRCM\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CopyComplete
+D:\Projects\TransRCM\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.exe
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.deps.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.dev.json
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Kros.Utils.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\MMLib.SwaggerForOcelot.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.AssemblyReference.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfoInputs.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfo.cs
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CoreCompileInputs.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.Manifest.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.xml
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\scopedcss\bundle\RCMGateWay.styles.css
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.RazorTargetAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CopyComplete
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.genruntimeconfig.cache
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewTransRCM\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.exe
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.deps.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.runtimeconfig.dev.json
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Kros.Utils.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\MMLib.SwaggerForOcelot.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.AssemblyReference.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfoInputs.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.AssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CoreCompileInputs.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.Manifest.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\staticwebassets\RCMGateWay.StaticWebAssets.xml
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\scopedcss\bundle\RCMGateWay.styles.css
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.RazorTargetAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.csproj.CopyComplete
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.pdb
+D:\Transform AR\TransRCMAPI\RCMGateWay\obj\Debug\netcoreapp3.1\RCMGateWay.genruntimeconfig.cache
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\HTTPlease.Core.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\HTTPlease.Diagnostics.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\HTTPlease.Formatters.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\HTTPlease.Formatters.Json.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\KubeClient.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\KubeClient.Extensions.DependencyInjection.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\KubeClient.Extensions.KubeConfig.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\Ocelot.Provider.Kubernetes.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\System.Reactive.PlatformServices.dll
+D:\Transform AR\TransRCMAPI\RCMGateWay\bin\Debug\netcoreapp3.1\YamlDotNet.dll
