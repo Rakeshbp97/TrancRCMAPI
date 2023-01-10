@@ -2,7 +2,7 @@ name: Publish RCMGateWay Docker Image
 
 on:
   push:
-    branches:  [ main ]
+    branches:  [ main1 ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -11,7 +11,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: waterlabsadmin/rcmgateway 
+  IMAGE_NAME: rakeshbp97/rcmgateway 
   # IMAGE_NAME: ${{ github.repository }} # returns HoussemDellai/github-actions-course : problem with uppercase
   IMAGE_TAG: 1.0.${{ github.run_number }} # GITHUB_RUN_NUMBER }}
 
