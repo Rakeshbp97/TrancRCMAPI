@@ -1,0 +1,79 @@
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.exe
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.deps.json
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.json
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.dev.json
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.dll
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\ClientService.pdb
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.AssemblyReference.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfoInputs.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfo.cs
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CoreCompileInputs.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.Manifest.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.xml
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClientService.styles.css
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.RazorTargetAssemblyInfo.cache
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.dll
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.pdb
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.genruntimeconfig.cache
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\TransRCM\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\TransRCM\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CopyComplete
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.pdb
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.exe
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.deps.json
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.json
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.dev.json
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.pdb
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.AssemblyReference.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfoInputs.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfo.cs
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CoreCompileInputs.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.MvcApplicationPartsAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.Manifest.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.xml
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClientService.styles.css
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.RazorTargetAssemblyInfo.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CopyComplete
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.genruntimeconfig.cache
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NewTransRCM\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.exe
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.deps.json
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.json
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.runtimeconfig.dev.json
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.dll
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\ClientService.pdb
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.AssemblyReference.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfoInputs.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.AssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CoreCompileInputs.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.MvcApplicationPartsAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.Manifest.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\staticwebassets\ClientService.StaticWebAssets.xml
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\scopedcss\bundle\ClientService.styles.css
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.RazorTargetAssemblyInfo.cache
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.csproj.CopyComplete
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.dll
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.pdb
+D:\Transform AR\TransRCMAPI\ClientService\obj\Debug\netcoreapp3.1\ClientService.genruntimeconfig.cache
+D:\Transform AR\TransRCMAPI\ClientService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
